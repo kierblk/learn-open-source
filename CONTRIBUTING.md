@@ -17,10 +17,12 @@ on an [open issue]–if the relevant issue doesn't exist, open it!
 
 2. Fork the repo.
 
+3. Make whatever changed required by the issue that you are resolvoing/addressing.
 
-
-8. Push to your fork and submit a pull request. Include the issue number
-   (ex. `Resolves #1`) in the PR description.
+4. Push to your fork and submit a pull request in this repo. Include the issue number
+   (ex. `Resolves #1`) in the PR description. 
+   
+*NOTE:* The PR request is formatted to require certain information. Please fill out as much as reasonable. These questions will help to train you in the kinds of things to addreess or include in your future PR requests.
 
 At this point you're waiting on us–we'll try to respond to your PR quickly.
 We may suggest some changes or improvements or alternatives.
